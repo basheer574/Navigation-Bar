@@ -70,5 +70,8 @@ nav > ul > li > a:hover::before{
     color: white;
     float: left;
 }
-
-
+button{
+    background: none;
+    border: none;
+    overflow: none;
+}
